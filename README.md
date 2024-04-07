@@ -18,6 +18,7 @@ Version 2 was the same application idea as Version 1 but I had to no longer rely
 ## Competition Details
 [Web Design and Development Scope Evaluation](https://github.com/she11fish/Skills-Canada-web-dev-competition-2023/blob/main/competition-details/WEB%20DESIGN%20AND%20DEVELOPMENT%20SCOPE%20EVALUATION%202023.pdf)
 
+## The Website
 ### Home
 ![alt text](https://github.com/she11fish/Skills-Canada-web-dev-competition-2023/blob/main/skills-images/home.png)
 ### Climate Change
